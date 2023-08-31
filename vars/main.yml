@@ -1,0 +1,7 @@
+---
+
+# List of supported types installation of FreeIPA server
+# Type: List
+freeipa_server_supported_types:
+  - master
+  - replica
